@@ -1,4 +1,4 @@
-# Counterfeit IC Detection System 🛠️
+# Counterfeit IC Detection System
 ---
 
 ## Overview
